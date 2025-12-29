@@ -1,16 +1,19 @@
-## Hi there 👋
+Oii, eu sou a kety <3 
 
-<!--
-**eukety/eukety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas para Internet (com foco em back end)
 
-Here are some ideas to get you started:
+🚀 Estou estudando desenvolvimento web, criando projetos práticos e registrando esse processo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Meus interesses são em:
+- Inteligência Artificial
+- Bioinformática
+- Dados
+- Desenvolvimento web
+
+🛠️ Tecnologias em aprendizado: 
+- HTML, CSS, JavaScript
+- Git e GitHub
+- C
+- Python
+
+Aprendizado é um processo contínuo e este repositório é parte dele. 📚
