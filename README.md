@@ -9,7 +9,7 @@ Meus interesses:
 - Dados
 - Desenvolvimento web
 
-Tecnologias em aprendizado: 
+Tecnologias que estou estudando: 
 - HTML, CSS, JavaScript
 - Git e GitHub
 - C
