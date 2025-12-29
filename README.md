@@ -1,6 +1,6 @@
 Oii, eu sou a kety <3 
 
-Estudante de Sistemas para Internet (com foco em back end)
+Estudante de Sistemas para Internet (com foco em back end).
 Estou estudando desenvolvimento web, criando projetos práticos e registrando esse processo.
 
 Meus interesses:
